@@ -90,10 +90,7 @@ My approach is systems-driven: I optimize for **maintainability, security, and r
 
 ### 📊 Languages
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Multitelo&layout=compact&theme=transparent&langs_count=6&exclude_repo=Multitelo"
-    alt="Top languages used by Multitelo"
-  />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Multitelo&layout=compact&theme=transparent" />
 </p>
 
 
