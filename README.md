@@ -17,7 +17,7 @@
 
 ### ⚡ Current Focus
 - Designing reliable **backend services & REST APIs** (Laravel / Node.js)
-- Building **analytics pipelines & dashboards** (SQL / Power BI / Pandas)
+- Building **analytics documentation & dashboards** (SQL / Power BI / Excel)
 - Open to **freelance & contract** opportunities (backend + data)
 
 ---
@@ -48,27 +48,46 @@ My approach is systems-driven: I optimize for **maintainability, security, and r
 ---
 
 ### 🚀 Featured Projects
-> Replace the placeholders with your actual repositories (send me 2–3 and I’ll tailor this precisely).
 
-#### 1) Project Name — What it solves (one line)
-- **What it is:** A short description of the system/app and the outcome.
-- **Stack:** Laravel • Node.js • SQL
-- **Highlights:** APIs • Auth • Performance • Clean architecture
-- **Links:** Repo • Live Demo
+#### 🏢 Luxury Real Estate Platform
+**Listings, search, agent workflows, and admin management**
 
-#### 2) Project Name — What it solves (one line)
-- **What it is:** A short description of the system/app and the outcome.
-- **Stack:** React • TypeScript • Tailwind
-- **Highlights:** UI/UX • Type-safety • Component design
-- **Links:** Repo • Live Demo
-
-#### 3) Project Name — What it solves (one line)
-- **What it is:** Analytics/dashboard project and what decision it supports.
-- **Stack:** SQL • Power BI • Pandas
-- **Highlights:** Dashboards • Pipelines • KPIs
-- **Links:** Repo • Report
+- **What it is:** A full-stack platform for browsing and managing luxury property listings, built with a performance-oriented backend and clean, responsive UI.
+- **Stack:** Laravel · React (Vite) · MySQL · Tailwind CSS
+- **Highlights:**
+  - Advanced filtering with optimized database query patterns
+  - Role-based access control with admin and agent workflows
+  - Reusable, responsive UI components
+- **Links:** [Live Site](https://rocklink.group)
 
 ---
+
+#### 🛒 E-commerce Website & Dashboard
+**Operational dashboard and analytics for growth teams**
+
+- **What it is:** A scalable e-commerce backend supporting products, services, and orders, paired with a React dashboard for real-time sales and inventory insights.
+- **Stack:** Laravel · React (Vite) · TypeScript · MySQL · Charts
+- **Highlights:**
+  - Product and service listings with seller and buyer dashboards
+  - Sales, order, and inventory analytics for operational visibility
+  - Maintainable, strongly-typed frontend data layer
+- **Links:** [Live Demo](https://ecom-multitelo.netlify.app)
+
+---
+
+#### 📊 London Railway Excel Analysis
+**Performance insights and forecasting for railway operations**
+
+- **What it is:** Interactive Excel dashboards designed to analyze railway performance, forecast demand, and identify underperforming routes.
+- **Stack:** Excel · DAX
+- **Highlights:**
+  - KPI-driven dashboards with consistent measures
+  - Forecasting views and anomaly detection slices
+  - Stakeholder-ready reporting and visual design
+- **Links:** [GitHub Repo](https://github.com/Multitelo/Railway-Analysis)
+
+---
+
 
 ### ✅ CI / Quality Badges (only for serious repos)
 > Add these only to repos that have GitHub Actions configured:
