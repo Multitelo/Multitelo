@@ -88,16 +88,12 @@ My approach is systems-driven: I optimize for **maintainability, security, and r
 
 ---
 
-
-### ✅ CI / Quality Badges (only for serious repos)
-> Add these only to repos that have GitHub Actions configured:
-`![CI](https://github.com/<USER>/<REPO>/actions/workflows/<WORKFLOW>.yml/badge.svg)`
-
----
-
 ### 📊 Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Multitelo&layout=compact&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Multitelo&layout=compact&theme=transparent"
+    alt="Top languages used by Multitelo"
+  />
 </p>
 
 <sub>Focused on building systems that are reliable, maintainable, and driven by real data.</sub>
