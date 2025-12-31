@@ -1,5 +1,5 @@
 <!-- HERO -->
-<h1 align="center">Multitelo</h1>
+<h1 align="center" font-size="30px">MULTITELO</h1>
 <p align="center">
   <b>Software Engineer + Data (Hybrid)</b> • Backend Systems • APIs • Analytics
 </p>
